@@ -1,0 +1,43 @@
+.as-slide-image img {
+	position: relative;
+}
+
+.as-slider-container .as-slider .as-slide-item .as-slide-image img {
+	max-width: 100%;
+}
+
+.product-cat-bike-frames  .quantity {
+	display: none;
+}
+
+.description_tab {
+	display: none;
+}
+
+.additional_information_tab {
+	display: none;
+}
+
+.single_add_to_cart_button {
+	float: left;
+}
+
+.hp-wrap {
+	display: none;
+}
+
+.honeypot-wrap {
+	display: none;
+}
+
+#post-1060 > div > ul > li > a {
+	font-size: 3em;
+	font-weight: bold;
+}
+
+#image-3 {
+	width: 10em;
+}
+
+.entry-header .featured-image {
+	display: none;
